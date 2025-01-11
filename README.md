@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications where asynchronous operations within routes are not handled correctly, leading to unhandled promise rejections. The `bug.js` file shows the problematic code, while `bugSolution.js` provides a corrected version.
